@@ -1,3 +1,5 @@
 FPGA_Deployment.zip filter=lfs diff=lfs merge=lfs -text
 FPGA_Deployment_A7.zip filter=lfs diff=lfs merge=lfs -text
 FPGA_Deployment_Ablation.zip filter=lfs diff=lfs merge=lfs -text
+ZynqIDS.zip filter=lfs diff=lfs merge=lfs -text
+python_experiment.zip filter=lfs diff=lfs merge=lfs -text
